@@ -1,0 +1,7 @@
+{
+    "AppSyncApiName": "blogapp",
+    "schemaGraphql": "s3://blogapp-20180920133632-deployment/amplify-appsync-files/schema.graphql.1537425666181",
+    "ResolverBucket": "blogapp-20180920133632-deployment",
+    "ResolverRootKey": "amplify-appsync-files",
+    "DeploymentTimestamp": "1537425666181"
+}
